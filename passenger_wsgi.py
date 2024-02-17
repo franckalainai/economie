@@ -1,2 +1,3 @@
 #application
-from economie.wsgi import application
+from economie.wsgi import application 
+
